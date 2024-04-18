@@ -102,6 +102,7 @@
     <Compile Include="LeetCodeMedium.aspx.designer.cs">
       <DependentUpon>LeetCodeMedium.aspx</DependentUpon>
     </Compile>
+    <Compile Include="LetterCombinations.cs" />
     <Compile Include="NQueensSolver.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
