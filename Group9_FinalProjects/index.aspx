@@ -1,4 +1,15 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="Group9_FinalProjects.index" %>
+﻿<!--
+# Name: Anh Bui
+# email: buivh@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 04/23/2024
+# Course: IS 3050
+# Semester/Year:Spring 2024
+# Brief Description: This is the final project
+# Citations:Github, chatGPT
+# Anything else that's relevant:
+-->
+<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="index.aspx.cs" Inherits="Group9_FinalProjects.index" %>
 
 <!DOCTYPE html>
 

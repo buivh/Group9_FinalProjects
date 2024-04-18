@@ -1,4 +1,16 @@
-﻿using System;
+﻿/*
+# Name: Duyen Huynh
+# email: huynhd2@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 04/23/2024
+# Course: IS 3050
+# Semester/Year:Spring 2024
+# Brief Description: This is the final project
+# Citations:https://chat.openai.com/,https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/
+# Anything else that's relevant:
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;

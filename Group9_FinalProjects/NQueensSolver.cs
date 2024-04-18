@@ -1,4 +1,15 @@
-﻿public class NQueensSolver
+﻿/*
+# Name: Anh Bui
+# email: buivh@mail.uc.edu
+# Assignment Title: Final Project
+# Due Date: 04/23/2024
+# Course: IS 3050
+# Semester/Year:Spring 2024
+# Brief Description: This is the final project
+# Citations:https://chat.openai.com/, https://leetcode.com/problems/n-queens-ii/description/
+# Anything else that's relevant:
+*/
+public class NQueensSolver
 {
     private int count;
     private bool[] rows;
